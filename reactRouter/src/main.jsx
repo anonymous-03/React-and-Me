@@ -50,7 +50,7 @@ createRoot(document.getElementById('root')).render(
     // Tarikaa 1
   <RouterProvider router={router} />
 
-//   Tarikaa 2
+//   Tarikaa 2 (Iss method se loader use nahi kr paa rhe the)
 //   <BrowserRouter>
 //     <Routes>
 //         <Route path="/" element={<App />}>
